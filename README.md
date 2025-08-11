@@ -1,4 +1,4 @@
-# Python List Operations Tutorial
+andefiki assigment week2 
 
 A simple Python script demonstrating fundamental list operations and manipulation techniques. This educational project showcases various methods to create, modify, and work with Python lists.
 
