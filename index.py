@@ -1,7 +1,6 @@
-# Create an empty list called my_list
+
 my_list = []
 
-# Append the following elements to my_list: 10, 20, 30, 40
 my_list.append(10)
 my_list.append(20)
 my_list.append(30)
@@ -19,9 +18,8 @@ my_list.pop()
 # Sort my_list in ascending order
 my_list.sort()
 
-# Find and print the index of the value 30 in my_list
+
 index_of_30 = my_list.index(30)
 print(f"Index of 30 in my_list: {index_of_30}")
 
-# Print the final list for verification
 print(f"Final my_list: {my_list}")
